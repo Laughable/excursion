@@ -1,0 +1,32 @@
+body {
+  font-family: Verdana, sans-serif;
+  background-color: black;
+  text-align: center;
+}
+
+h1 {
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+}
+
+h2 {
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+}
+
+a {
+  color: Aquamarine;
+  font-size: 16px;
+}
+
+.dps {
+  font-size: 21px;
+  color: gray;
+}
+
+.copy {
+  text-align: right;
+  color: gray;
+}
